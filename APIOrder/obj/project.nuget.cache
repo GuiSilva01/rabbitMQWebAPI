@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WG7jxbVttY441WYlbP0kHG6Ea9O0DNk8nvL77fhnvzPROXOKwh1bTB/UWGeLMh69nER4BlYfpamWG7GiVBI+Sw==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\APIOrder\\APIOrder\\APIOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
